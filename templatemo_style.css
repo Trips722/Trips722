@@ -7,7 +7,7 @@ body {
 	font-family: Verdana, Arial, san-serif;
 	font-size: 11px;
 	color: #ffffff;
-	background: url(images/library.jpg) no-repeat;;
+	background: url(images/library.jpg) no-repeat;
 }
 
 a:link, a:visited { color: #e6e154; text-decoration: none; font-weight: bold;} 
@@ -58,12 +58,17 @@ img {
 	font-weight: bold;
 	text-decoration: none;
         transition-duration: 0.4s;
-        cursor: pointer;
-       
-
-        
+        cursor: pointer;             
+}
+#btn1:link, #btn1:visited { color: #e6e154; text-decoration: none; font-weight: bold;} 
+#btn1:active, #btn1:hover{
+color: Green; text-decoration: underline;
 }
 
+#btn:link, #btn:visited { color: #e6e154; text-decoration: none; font-weight: bold;} 
+#btn:active, #btn:hover{
+color: Green; text-decoration: underline;
+}
 
 .detail_button a{
 	clear: both;
@@ -318,4 +323,4 @@ img {
 	color: #fff;
 	font-weight: normal;
 }
-/* end of footer */
+/* end of footer #e6e154*/
