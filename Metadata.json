@@ -4,23 +4,21 @@
     "title": "Heaven Resort",
     "category": "information",
     "rating": 4.8,
-    "document_uri": "gs://qwiklabs-gcp-00-91259a48dc3a/hotel1.pdf
-"
+    "document_uri": "gs://qwiklabs-gcp-04-fc9a36070bd5/hotel1.pdf"
   },
   {
     "id": "doc-2",
     "title": "Paradise Reef Resort",
     "category": "information",
     "rating": 4.7,
-    "document_uri": "gs://qwiklabs-gcp-00-91259a48dc3a/hotel2.pdf
-"
+    "document_uri": "gs://qwiklabs-gcp-04-fc9a36070bd5/hotel2.pdf"
   },
   {
     "id": "doc-3",
     "title": "AquaPulse Maldives",
     "category": "information",
     "rating": 4.0,
-    "document_uri": "gs://qwiklabs-gcp-00-91259a48dc3a/hotel3.pdf"
+    "document_uri": "gs://qwiklabs-gcp-04-fc9a36070bd5/hotel3.pdf"
 
   },
   {
@@ -28,24 +26,21 @@
     "title": "Heaven Resort Financials",
     "category": "financials",
     "rating": 4.8,
-    "document_uri": "gs://qwiklabs-gcp-00-91259a48dc3a/hotel1-financials.pdf
-"
+    "document_uri": "	gs://qwiklabs-gcp-04-fc9a36070bd5/hotel1-financials.pdf"
   },
   {
     "id": "doc-5",
     "title": "Paradise Reef Resort Financials",
     "category": "financials",
     "rating": 4.7,
-    "document_uri": "gs://qwiklabs-gcp-00-91259a48dc3a/hotel2-financials.pdf
-"
+    "document_uri": "gs://qwiklabs-gcp-04-fc9a36070bd5/hotel2-financials.pdf"
   },
   {
     "id": "doc-6",
     "title": "AquaPulse Maldives Financials",
     "category": "financials",
     "rating": 4.0,
-    "document_uri": "gs://qwiklabs-gcp-00-91259a48dc3a/hotel3-financials.pdf
-"
+    "document_uri": "gs://qwiklabs-gcp-04-fc9a36070bd5/hotel3-financials.pdf"
   }
 ]
 
